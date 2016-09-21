@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="hello_message">Hello World!</string>
+    <string name="ButtonText">Nirav</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="Text_Login">Login</string>
+    <string name="Text_Password">password</string>
+</resources>
